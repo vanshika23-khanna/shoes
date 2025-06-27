@@ -1,8 +1,8 @@
-# 🏷️ Responsive Shoe Showcase Website
+#  Responsive Shoe Showcase Website
 
 This is a responsive website built as part of a web development task. It showcases a few shoe products using HTML and CSS, and adapts beautifully across desktop and mobile screens using media queries.
 
----
+
 
 ## Features
 
@@ -15,14 +15,14 @@ This is a responsive website built as part of a web development task. It showcas
 ---
 
 
-## 🌐 Live Demo
+##  Live Demo
 
 View the project here:  
 🔗 [https://vanshika23-khanna.github.io/shoes/](https://vanshika23-khanna.github.io/shoes/)
 
 ---
 
-## 🛠️ Tech Used
+##  Tech Used
 
 - HTML5  
 - CSS3  
@@ -31,7 +31,7 @@ View the project here:
 
 ---
 
-## 🙋‍♀️ Author
+##  Author
 
 **Vanshika Khanna**  
 ✨ Learning Web Development one step at a time!

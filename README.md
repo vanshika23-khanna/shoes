@@ -32,7 +32,6 @@ View the project here:
 
 ##  Author
 
-**Vanshika Khanna**  
-✨ Learning Web Development one step at a time!
+**Vanshika Khanna** 
 
 

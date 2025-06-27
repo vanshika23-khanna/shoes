@@ -1,0 +1,89 @@
+.head{
+    background-color: rgb(192, 152, 230);
+    text-align: center;
+    padding: 30px;
+}
+.head header{
+    color:aliceblue;
+    font-weight: bold;
+    font-size: 40px;
+}
+.head p{
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.nav{
+background: white;
+  color: rgb(192, 152, 230);
+  padding: 15px;
+ 
+  
+
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+    
+    justify-content: center;
+    
+}
+.nav li{
+    cursor: pointer;
+    font-size: 20px;
+    
+}
+.shoes{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.shoes a{
+    text-align: center;
+}
+.shoes img{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 12px;
+}
+.shoes img:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+
+  .shoes {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .shoes a {
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .shoes img {
+    max-width: 100%;
+  }
+
+  .head header {
+    font-size: 30px;
+  }
+
+  .head p {
+    font-size: 15px;
+  }
+}

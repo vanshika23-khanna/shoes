@@ -12,7 +12,6 @@ This is a responsive website built as part of a web development task. It showcas
 -  Responsive navigation menu
 -  Smooth image hover effects
 
----
 
 
 ##  Live Demo
@@ -20,7 +19,7 @@ This is a responsive website built as part of a web development task. It showcas
 View the project here:  
 🔗 [https://vanshika23-khanna.github.io/shoes/](https://vanshika23-khanna.github.io/shoes/)
 
----
+
 
 ##  Tech Used
 
@@ -29,7 +28,7 @@ View the project here:
 - Media Queries for responsiveness  
 - Chrome DevTools for testing
 
----
+
 
 ##  Author
 
